@@ -4,9 +4,7 @@ API REST con **Node.js + Express + PostgreSQL** para gestionar un catálogo de p
 
 ## Integrantes
 
-- _Nombre Apellido1 Apellido2_ — GitHub: `@usuario`
-- _(segundo integrante, si aplica)_
-
+- _Mayerly Piloso Muñoz_ — GitHub: `Piloso-Mayerly`
 ## Propósito
 
 Practicar el diseño de una API segura: separación en capas (rutas → controladores → acceso a datos), validación en el servidor, hashing de contraseñas, JWT con vencimiento, permisos por rol y aislamiento de datos entre usuarios.
